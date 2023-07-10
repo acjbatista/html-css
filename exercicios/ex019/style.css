@@ -1,0 +1,33 @@
+@charset "UTF-8";
+body{
+    background-color:#56F789;
+        }
+        h1{
+        color:#067529 ;
+        }
+        h1#principal{
+            text-align: center;
+            font-size: 2.5em;
+            background-color: #09C244;
+            color: #297541;
+        }
+        h2{
+        color: #067529;
+        }
+        h2.basico{
+color: green;
+font-weight: bolder;
+font-style: italic;
+        }
+        h2.intermediario{
+color: yellow;
+        }
+        h2.avancado{
+color: red;
+        }
+        .destaque{
+            background-color: white;
+        }
+        .decor{
+            text-decoration: underline;
+        }
